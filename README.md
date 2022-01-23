@@ -11,3 +11,7 @@
 <li>Photo Gallery</li>
 <li>Contact Form</li>
 </ul>
+
+* * *
+
+<img src="https://github.com/mburleson/paramountimp/blob/master/screenshot-paramountimprovements-com-2015-03-13-01-32-31.png" width="75%"/>
