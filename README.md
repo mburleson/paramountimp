@@ -14,4 +14,4 @@
 
 * * *
 
-<img src="https://github.com/mburleson/paramountimp/blob/master/screenshot-paramountimprovements-com-2015-03-13-01-32-31.png" width="75%"/>
+<img src="https://github.com/mburleson/paramountimp/blob/master/paramount.png"/>
